@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jiangmw.ipttest.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jiangmw.ipttest.MyBundle
 
 class MyApplicationService {
 
